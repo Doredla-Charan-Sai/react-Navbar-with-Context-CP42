@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.home-img {
+  width: 200px;
+  height: 200px;
+}
+.home-txt-dark {
+  font-family: 'Roboto';
+  font-size: 27px;
+  color: white;
+}
+.home-txt-light {
+  font-family: 'Roboto';
+  font-size: 27px;
+  color: black;
+}

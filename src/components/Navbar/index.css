@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.nav-bar-light {
+  background-color: #1e293b;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.nav-bar-dark {
+  background-color: #ffffff;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.website-logo {
+  width: 60px;
+  cursor: pointer;
+}
+.links {
+  margin: 0;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100px;
+}
+.link {
+  text-decoration: none;
+}
+.list-item-dark {
+  color: white;
+  cursor: pointer;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.list-item-light {
+  color: black;
+  cursor: pointer;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.theme {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  outline: none;
+}

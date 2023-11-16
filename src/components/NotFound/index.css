@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.not-found-cont-dark {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: black;
+  padding: 50px;
+}
+.not-found-cont-light {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: white;
+  padding: 50px;
+}
+.not-found {
+  width: 50%;
+  height: 60%;
+}
+.lost-dark {
+  font-family: 'Roboto';
+  font-size: 27px;
+  color: white;
+}
+.lost-light {
+  font-family: 'Roboto';
+  font-size: 27px;
+  color: black;
+}
+.txt-dark {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: white;
+}
+.txt-light {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: black;
+}
